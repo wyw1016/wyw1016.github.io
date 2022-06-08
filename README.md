@@ -2,6 +2,21 @@
 
 在这里你可以对宋培彦所研究的***
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>宋培彦</h1>
+      <p><b>导师</b></p>
+      <p><b>天津师范大学大学管理学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
